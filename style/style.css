@@ -10,3 +10,8 @@ td, th {
 svg {
     height: 150px;
 }
+
+.mapClass {
+    height: 250px;
+    width: 250px;
+}
